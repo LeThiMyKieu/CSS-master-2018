@@ -1,0 +1,73 @@
+.content .integrated .text-content h2.title{
+    color: #071e55;
+    font-family: 'Dosis', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 18%;
+}
+.content .integrated .text-content p.description{
+    color: #7c8595;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+.content .integrated .cont-one{
+    border: 1px solid rgba(44, 170, 255, 0.39);
+    border-radius:10px;
+    margin: 50px 10px 40px 10px;
+    padding: 50px 15px 32px 15px;
+}
+.content .integrated .cont-one img{
+    margin:  0 0 20px;
+}
+.content .integrated .cont-one h3.title{
+    font-size: 26px;
+    color: #292929;
+    font-family: 'Dosis', sans-serif;
+    margin-bottom: 15px;
+}
+.content .integrated .cont-one p.description{
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #7c8595;
+    margin-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.integrated.ourblog{
+    margin-top: -7%;
+}
+.content .integrated.ourblog .cont-one{
+    margin: 0;
+    padding: 0;
+}
+.content .integrated.ourblog .cont-one img{
+    border-radius: 10px;
+}
+.content .integrated.ourblog .cont-one a{
+    text-decoration: none;
+}
+.content .integrated.ourblog .cont-one a h3.title{
+    font-size: 20px;
+    color: #071e55;
+    font-weight: 600;
+    font-family: 'Dosis', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+.content .integrated.ourblog .cont-one p.description{
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #7c8595;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 15px;
+}
+.content .integrated.ourblog .cont-one i{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.content .integrated.ourblog .cont-one i em{
+    color: #858585;
+    font-size: 14px;
+}
