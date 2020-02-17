@@ -1,0 +1,33 @@
+.wrapper .menu .navbar-dark.menuK{
+    background-color: white!important;
+}
+.wrapper .menu .navbar-dark.menuK .logo{
+    color: #3b64d2!important;
+    font-size: 28px;
+    margin-left: 7%;
+    margin-right: 12%;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+.wrapper .menu .navbar-dark.menuK .menuTop{
+    padding: 15px 0 12px 0;
+}
+.wrapper .menu .navbar-dark.menuK .menuTop .nav-item .nav-link{
+    color:  #405263 !important;
+    font-size: 18px;
+    padding: 10px 20px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+}
+.wrapper .menu .navbar-dark.menuK .menuTop .nav-item.active .nav-link{
+    color:  #3b64d2 !important;
+}
+.wrapper .menu .navbar-dark.menuK .menuTop .nav-item:last-child{
+    border: 1px solid #1e90ff;
+    background: #1e90ff;
+    border-radius: 8px 8px;
+    font-family: 'Dosis', sans-serif;
+}
+.wrapper .menu .navbar-dark.menuK .menuTop .nav-item .nav-link.color{
+    color: white!important;
+}
