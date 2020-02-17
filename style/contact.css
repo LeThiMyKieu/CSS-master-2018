@@ -1,0 +1,30 @@
+.contact{
+    margin-top: 8%;
+    background-color: rgba(144, 238, 144, 0.18);
+}
+.contact .title{
+    font-size: 30px;
+    color: #071e55;
+    font-weight: 600;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 10%;
+}
+.contact p.des{
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #7c8595;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer{
+    margin-top: 3%;
+}
+.footer p.ft{
+    font-size: 17px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #7c8595;
+    margin-bottom: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
